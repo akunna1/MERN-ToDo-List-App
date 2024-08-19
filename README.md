@@ -2,4 +2,4 @@
 Creating a MERN do do list app
 
 
-For installing mongoDB: https://www.mongodb.com/try/download/community
+For installing mongoDB Compass: https://www.mongodb.com/try/download/community
