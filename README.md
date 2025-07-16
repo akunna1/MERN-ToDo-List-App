@@ -1,4 +1,4 @@
-#  Girly-Themed To-Do List App (MERN Stack) 🩷
+#  Girly-Themed To-Do List App (MERN Stack) 🧁
 
 ## 📝 About
 
@@ -68,7 +68,7 @@ This is a **mobile-responsive**, full-stack **To-Do List app** built with the **
 
 ---
 
-## 🧁 Topics & Tools Used
+## ⚙️ Topics & Tools Used
 
 * Full CRUD operations
 * RESTful API with Express
